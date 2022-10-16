@@ -1,0 +1,21 @@
+/* use ID for something unique, and use class 
+for something to be reused */
+
+h1 {
+    color: Blue;
+    /* color: rgb(0, 0, 255); */
+    /* color: #00ff00 */
+    background-color: wheat;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+    font-weight: 300;
+    line-height: 1.6em;
+}
+
+/* use the . notation to call classes */
+.box-1 {
+    background-color: rgb(121, 0, 0);
+}

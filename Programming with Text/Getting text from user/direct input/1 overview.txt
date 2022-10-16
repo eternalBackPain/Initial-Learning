@@ -1,0 +1,6 @@
+ways to get text input
+1) <input> tag
+2) <textarea> tag
+3) use a text file itself (file.txt) and use the command loadStrings()
+4) an upload file button (createFileInput())
+5) create a div to drag a text file over
